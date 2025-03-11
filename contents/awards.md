@@ -1,13 +1,3 @@
-- National Scholarship of Graduate Student, 2024.
+- The First Prize in the 2019 Shanghai Youth Artificial Intelligence Challenge
 
-- First-prize Scholarship of CUMT, 2024.
-
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- Meritorious Winners (top 7%), in the 2024 Mathematical Contest in Modeling (MCM)
